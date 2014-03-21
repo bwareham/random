@@ -1,0 +1,7 @@
+*.log
+*.pot
+*.pyc
+settings.py
+apache2/
+bin/
+lib/
